@@ -1,2 +1,2 @@
-# more-to-explore.github.io
+# More to Explore Docs
 MtE Wiki!
