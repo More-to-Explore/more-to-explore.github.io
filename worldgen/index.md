@@ -14,6 +14,18 @@ has_children: true
 
 ---
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
+---
+
+
 ![1000037364](https://github.com/1D10T1C-STUD10S/more-to-explore/assets/112738649/f1fdad4a-4500-42ac-871b-868311be023e)
 
 There are multiple structures and natural features being added
