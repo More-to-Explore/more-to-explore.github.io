@@ -1,3 +1,7 @@
+---
+parent: Structures
+---
+
 # Dungeon Structures:
 
 For clarity storyline structures are not listed here!
