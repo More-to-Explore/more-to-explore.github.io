@@ -1,7 +1,7 @@
 ---
 layout: default
 title: World-Gen
-nav-order: 4
+nav-order: 6
 has_children: true
 ---
 
