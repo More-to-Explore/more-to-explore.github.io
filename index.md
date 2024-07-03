@@ -8,7 +8,7 @@
 This is a Minecraft mod and is currently only available for Minecraft: Bedrcock Edition!
 
 ## ***Our main download link:***
-[Installation Guide](https://1d10t1c-stud10s.github.io/more-to-explore/links.html){: .btn }
+[Installation Guide](https://more-to-explore.github.io/links.html){: .btn }
 [GitHub Project download page](https://github.com/1D10T1C-STUD10S/more-to-explore-source/releases){: .btn .btn-purple }
 
 ---
@@ -24,14 +24,8 @@ As a Minecraft mod we strive to improve the gameplay by adding new content and l
 Villagers at war with Illagers, Piglins rebuilding their crumbling empire, the Undead rising from their graves with soulless masters, and lots of other creatures waiting for you to — Explore…
 
 This mod has added storylines, for increased content, and a variety of mobs, items, artefact items, structures, armour and so much more to discover…
-![WhatsApp Image 2024-02-26 at 22 52 39]()
 
 <img src="https://github.com/1D10T1C-STUD10S/more-to-explore/assets/112738649/c6dc60d8-ae2b-4514-8a38-525e3d835b9c" width="60%" height="auto" style="display: block; margin: 0 auto;">
-
----
-
-## *WIKI AND GUIDE:*
-[Start here!](https://1d10t1c-stud10s.github.io/more-to-explore/wiki.html)
 
 ---
 
