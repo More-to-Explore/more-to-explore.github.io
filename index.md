@@ -1,6 +1,6 @@
 # **The Explorer's Compendium**
 
-<img src="https://github.com/1D10T1C-STUD10S/more-to-explore/assets/112738649/6b4d4d86-750e-4b35-9bbb-bad708f34151" width="80%" height="auto">
+<img src="https://github.com/1D10T1C-STUD10S/more-to-explore/assets/112738649/6b4d4d86-750e-4b35-9bbb-bad708f34151" width="70%" height="auto" style="display: block; margin: 0 auto;">
 
 ---
 
@@ -8,11 +8,12 @@
 This is a Minecraft mod and is currently only available for Minecraft: Bedrcock Edition!
 
 ## ***Our main download link:***
-[GitHub Project download page](https://github.com/1D10T1C-STUD10S/more-to-explore-source/releases)
+[Installation Guide](https://1d10t1c-stud10s.github.io/more-to-explore/links.html){: .btn }
+[GitHub Project download page](https://github.com/1D10T1C-STUD10S/more-to-explore-source/releases){: .btn .btn-purple }
 
 ---
 
-![1000036064](https://github.com/1D10T1C-STUD10S/more-to-explore/assets/112738649/797c4dae-6f30-4a55-8901-7c781a2f5dc4)
+<img src="https://github.com/1D10T1C-STUD10S/more-to-explore/assets/112738649/797c4dae-6f30-4a55-8901-7c781a2f5dc4" width="60%" height="auto" style="display: block; margin: 0 auto;">
 
 ---
 
@@ -23,18 +24,9 @@ As a Minecraft mod we strive to improve the gameplay by adding new content and l
 Villagers at war with Illagers, Piglins rebuilding their crumbling empire, the Undead rising from their graves with soulless masters, and lots of other creatures waiting for you to — Explore…
 
 This mod has added storylines, for increased content, and a variety of mobs, items, artefact items, structures, armour and so much more to discover…
-![WhatsApp Image 2024-02-26 at 22 52 39](https://github.com/1D10T1C-STUD10S/more-to-explore/assets/112738649/c6dc60d8-ae2b-4514-8a38-525e3d835b9c)
+![WhatsApp Image 2024-02-26 at 22 52 39]()
 
-
----
-
-## *DOWNLOAD LINKS + INSTALLATION GUIDE:*
-[Links!](https://1d10t1c-stud10s.github.io/more-to-explore/links.html)
-
-[Installation Guide (IMPORTANT)](https://1d10t1c-stud10s.github.io/more-to-explore/installation.html)
-
-[GitHub Project download page](https://github.com/1D10T1C-STUD10S/more-to-explore-source/releases)
-
+<img src="https://github.com/1D10T1C-STUD10S/more-to-explore/assets/112738649/c6dc60d8-ae2b-4514-8a38-525e3d835b9c" width="60%" height="auto" style="display: block; margin: 0 auto;">
 
 ---
 
