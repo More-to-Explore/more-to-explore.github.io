@@ -4,6 +4,8 @@
 $body-font-family: "Pixelify Sans" !default;
 $mono-font-family: "SFMono-Regular", menlo, consolas, monospace !default;
 
+font-family: $body-font-family;
+
 $body-background-color: #2a2d33;
 $body-heading-color: $grey-lt-000;
 $body-text-color: $grey-lt-300;
