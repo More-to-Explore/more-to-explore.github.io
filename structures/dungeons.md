@@ -1,4 +1,5 @@
 ---
+title: Dungeons
 parent: Structures
 ---
 
