@@ -1,3 +1,8 @@
+---
+title: Home
+nav_order: 1
+---
+
 # **The Explorer's Compendium**
 
 <img src="https://github.com/1D10T1C-STUD10S/more-to-explore/assets/112738649/6b4d4d86-750e-4b35-9bbb-bad708f34151" width="70%" height="auto" style="display: block; margin: 0 auto;">
