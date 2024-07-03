@@ -1,0 +1,32 @@
+{
+  "name": "MtE Wiki",
+  "short_name": "MtE Wiki",
+  "description": "The Explorer's Compendium",
+  "scope": "/",
+  "start_url": "/",
+  "background_color": "#8a291e",
+  "theme_color": "#8a291e",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/assets/favicon.png",
+      "type": "image/png",
+      "sizes": "634x634"
+    }
+  ],
+  "id": "MTEWiki",
+  "categories": [
+    "books",
+    "games",
+    "utilities"
+  ],
+  "display_override": [
+    "fullscreen",
+    "standalone",
+    "minimal-ui",
+    "window-controls-overlay"
+  ],
+  "dir": "auto",
+  "lang": "en",
+  "orientation": "any"
+}
