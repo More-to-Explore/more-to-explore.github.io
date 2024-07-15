@@ -14,7 +14,7 @@ This is a Minecraft mod and is currently only available for Minecraft: Bedrcock 
 
 ## ***Our main download link:***
 [Installation Guide](https://more-to-explore.github.io/links.html){: .btn }
-[GitHub Project download page](https://github.com/1D10T1C-STUD10S/more-to-explore-source/releases){: .btn .btn-purple }
+[GitHub Project download page](https://more-to-explore.obl.ong/source){: .btn .btn-purple }
 
 ---
 
